@@ -1,0 +1,52 @@
+                .container {
+                    border: 1px solid black;
+                    border-radius: 5px;
+                    width: 1000px;
+                    height: 874px;
+                    margin-left: 450px;
+                    margin-top: 50px;
+                }
+                
+                .bg {
+                    background-color: #9A6DC4;
+                    width: 1000px;
+                    height: 201px;
+                }
+                
+                .bg h1 {
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 40px;
+                    line-height: 47px;
+                    color: white;
+                    text-align: center;
+                    margin-top: 0;
+                    padding: 10px;
+                }
+                
+                .bg p {
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-size: 25px;
+                    color: white;
+                    text-align: center;
+                }
+                
+                .form {
+                    margin-left: 400px;
+                }
+                
+                h2 {
+                    margin-left: 100px;
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 30px;
+                    line-height: 29px;
+                    margin-top: 50px;
+                }
+                
+                .java {
+                    margin-left: 100px;
+                }
